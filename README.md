@@ -1,5 +1,8 @@
 # 200714 Html Forms Graded Classwork
 
+## Score : 2/5
+Your input type for last name and confirm password are incorrct and your missing a submit button. You are also missing key styling (seems like you ran out of time). be sure to check out the solution video!
+
 ## Assignment
 - Recreate `html_form.png`
 - Page background should be blue
